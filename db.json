@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "ff03",
+      "firstName": "ilyes",
+      "lastName": "soussi",
+      "username": "ilyesjfskfh",
+      "email": "ifzoefihjz@gmafgj.com",
+      "password": "123123",
+      "createdAt": "2024-12-13T20:03:54.993Z"
+    },
+    {
+      "id": "1e8b",
+      "firstName": "dkzfjz",
+      "lastName": "kjdzh",
+      "username": "dsfhf",
+      "email": "sdqfmoh@hmf.com",
+      "password": "1212",
+      "createdAt": "2024-12-13T20:04:31.224Z"
+    },
+    {
+      "id": "55fb",
+      "firstName": "aloo",
+      "lastName": "aloo",
+      "username": "aloo",
+      "email": "test@gmail.com",
+      "password": "123456789",
+      "createdAt": "2024-12-18T08:25:42.830Z"
+    }
+  ]
+}
